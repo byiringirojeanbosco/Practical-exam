@@ -1,18 +1,29 @@
 
-> living-patient-appointment@1.0.0 dev
+> meditrack-appointments@1.0.0 dev
 > vite --host 127.0.0.1 --port 5173
 
+[2m8:53:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
 
-  [32m[1mVITE[22m v7.3.2[39m  [2mready in [0m[1m2958[22m[2m[0m ms[22m
+  [32m[1mVITE[22m v7.3.2[39m  [2mready in [0m[1m1519[22m[2m[0m ms[22m
 
   [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
-[2m4:19:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
-[2m4:19:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
-[2m4:25:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mcareflow-appointment-system/index.html[22m
-[2m4:25:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mcareflow-appointment-system/dist/index.html[22m
-[2m4:50:05 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
-[2m4:50:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
-[2m4:50:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
-[2m4:50:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
-[2m4:50:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
-[2m4:50:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
+[2m8:54:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/context/AppointmentContext.jsx[22m
+[2m8:54:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/account/AccountPage.jsx[22m
+[2m8:55:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mmeditrack-appointment-system-final/index.html[22m
+[2m8:55:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mmeditrack-appointment-system-final/dist/index.html[22m
+[2m9:06:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Icon.jsx[22m
+[2m9:07:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Header.jsx[22m
+[2m9:07:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/AppLayout.jsx[22m
+[2m9:08:05 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/context/AppointmentContext.jsx, /src/features/settings/SettingsPage.jsx[22m
+[2m9:08:05 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/context/AppointmentContext.jsx[22m Could not Fast Refresh ("useAppointment" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:08:05 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/context/AppointmentContext.jsx[22m
+[2m9:08:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/BottomNavigation.jsx[22m
+[2m9:08:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/AppLayout.jsx[22m
+[2m9:09:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/symptoms/SymptomPage.jsx[22m
+[2m9:09:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/symptoms/SymptomPage.jsx[22m
+[2m9:09:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/symptoms/SymptomPage.jsx[22m
+[2m9:09:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/context/AppointmentContext.jsx, /src/features/settings/SettingsPage.jsx[22m
+[2m9:17:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/CareSummary.jsx[22m
+[2m9:17:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/CareSummary.jsx[22m
+[2m9:30:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mmeditrack-real-app/index.html[22m
+[2m9:30:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mmeditrack-real-app/dist/index.html[22m
